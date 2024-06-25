@@ -11,7 +11,6 @@ public class Menu {
         System.out.println("5. US Dolar(USD)       =>> Colombian Peso(COP)");
         System.out.println("6. Colombian Peso(COP) =>> US Dolar(USD)");
         System.out.println("7. Exit\n");
-        System.out.println("Enter a valid option: ");
         System.out.println("***********************************************");
     }
 
